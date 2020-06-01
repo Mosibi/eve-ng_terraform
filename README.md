@@ -59,3 +59,6 @@ terraform apply
 ```
 
 ![Install demo](install.gif)
+
+After the installation, ssh to the ip address of the virtual EVE-NG machine to finish the installation. 
+Have fun EVE-NG'ing !
